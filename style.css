@@ -193,7 +193,7 @@ input {
     width: 30px;
 }
 
-@media (max-width:407px) {
+@media (max-width:450px) {
     header {
         justify-content: space-between;
         padding: 4vw;
