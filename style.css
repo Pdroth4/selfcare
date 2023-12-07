@@ -233,6 +233,7 @@ input {
     padding-left: 10px;
     padding-right: 10px;
     flex-wrap: wrap;
+    gap: 3vw;
   }
 
   article {
@@ -263,6 +264,7 @@ input {
     height: 4vh;
     align-items: center;
     padding: 0;
+    cursor: pointer;
   }
 
   .social {
@@ -271,6 +273,7 @@ input {
     width: 30vw;
     height: 4vh;
     align-items: center;
+    cursor: pointer;
   }
 
   .formulario {
@@ -283,6 +286,7 @@ input {
   }
 
   ul {
+
     margin-top: 3vh;
     margin-left: 11px;
   }
@@ -299,6 +303,7 @@ input {
 
   input {
     margin-inline: 12px;
+    height: 5vh;
     width: 93%;
   }
 
