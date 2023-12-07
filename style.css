@@ -107,7 +107,6 @@ figcaption {
   display: flex;
   justify-content: space-between;
   border-top: 2px solid #ccc;
-  border: solid 2px red;
 }
 
 .infos {
@@ -115,7 +114,6 @@ figcaption {
   height: 13vh;
   display: flex;
   align-items: center;
-  padding-top:;
 }
 
 ul {
@@ -152,6 +150,7 @@ input {
   padding-top: 5px;
   width: 15vw;
   height: 4vh;
+  border: none;
 }
 
 .sub {
