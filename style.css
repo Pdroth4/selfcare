@@ -118,6 +118,7 @@ figcaption {
 }
 
 ul {
+  border: solid 2px black;
   margin-left: 60px;
   margin-top: 10px;
   list-style: none;
