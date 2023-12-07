@@ -275,7 +275,7 @@ input {
   }
 
   ul {
-    margin-top: 3vh;
+    margin-top: 1vh;
     margin-left: 11px;
   }
 
@@ -290,6 +290,7 @@ input {
 
   input {
     margin-inline: 12px;
+    height: 5vh;
     width: 93%;
   }
 
