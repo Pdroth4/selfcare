@@ -204,7 +204,7 @@ input {
   background-color: #5ca720;
 }
 
-.hoverimg:hover {
+.hoverimg img:hover {
   opacity: 0.5;
 }
 
