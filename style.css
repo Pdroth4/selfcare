@@ -225,6 +225,7 @@ input {
     padding-left: 10px;
     padding-right: 10px;
     flex-wrap: wrap;
+    gap: 3vw;
   }
 
   article {
