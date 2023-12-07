@@ -292,7 +292,7 @@ input {
   }
 
   .form {
-    margin-top: 10px
+    padding-bottom: 2vh;
     width: 100%;
   }
 
