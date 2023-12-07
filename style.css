@@ -119,10 +119,9 @@ figcaption {
 }
 
 ul {
-  padding-top: 20px;
   border: solid 2px blue;
   margin-left: 60px;
-  margin-top: 20px;
+  margin-top: 30px;
   list-style: none;
 }
 
