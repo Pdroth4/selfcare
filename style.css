@@ -202,11 +202,11 @@ input {
 
 .hover-figure {
   background-color: #5ca720;
+  width: 60%;
 }
 
 .img-hover:hover {
   opacity: 0.5;
-  background: 60%;
 }
 
 @media (max-width: 450px) {
