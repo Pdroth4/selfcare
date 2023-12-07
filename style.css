@@ -200,6 +200,14 @@ input {
   width: 30px;
 }
 
+.hoverimg {
+  background-color: #5ca720;
+}
+
+.hoverimg:hover {
+  opacity: 0.5;
+}
+
 @media (max-width: 450px) {
   header {
     justify-content: space-between;
