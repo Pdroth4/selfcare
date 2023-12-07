@@ -288,7 +288,7 @@ input {
   }
 
   .form {
-    margin-bottom: 2vh;
+    padding-bottom: 2vh;
     width: 100%;
   }
 
@@ -298,6 +298,7 @@ input {
   }
 
   input {
+    margin-bottom: 5px;
     margin-inline: 12px;
     width: 93%;
   }
