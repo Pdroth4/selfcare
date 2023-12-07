@@ -187,12 +187,20 @@ input {
   align-items: center;
 }
 
+.social:hover {
+  cursor: pointer;
+}
+
 .pagamento {
   display: flex;
   justify-content: space-around;
   padding-right: 50px;
   width: 200px;
   align-items: center;
+}
+
+.pagamento:hover {
+  cursor: pointer;
 }
 
 .pagamento img,
@@ -278,11 +286,13 @@ input {
   }
 
   ul {
-    margin-top: 1vh;
+
+    margin-top: 3vh;
     margin-left: 11px;
   }
 
   .form {
+    margin-bottom: 2vh;
     width: 100%;
   }
 
