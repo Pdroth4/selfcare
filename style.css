@@ -141,8 +141,9 @@ h3 {
 .form {
   margin-top: 25px;
   width: 25vw;
-  height: 15vh;
+  height: 20vh;
   align-items: center;
+  background-color: #f0f0f0;
 }
 
 input {
